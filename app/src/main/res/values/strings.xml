@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InstagramClone</string>
+    <string name="title_activity_add_photo">AddPhotoActivity</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
